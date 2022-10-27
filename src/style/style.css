@@ -1,0 +1,37 @@
+.navbar-default {
+    background-color: white;
+    border-color: white;
+}
+
+.form-input {
+    background-color: #f1f1ef;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form-inline {
+    margin-left: 30px;
+}
+
+.label-form {
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+.submit-form {
+    float: right;
+    margin-right: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+}
+
+.list-todo {
+    width: 25%;
+    height: 100px;
+    border: 1px solid rgb(10, 3, 102);
+    border-radius: 10px;
+    display: "flex";
+    align-items: "center";
+    justify-content: "center";
+}
